@@ -1,0 +1,367 @@
+{
+  "success": true,
+  "code": 0,
+  "message": "查询历史数据成功",
+  "meta": {
+    "usedTime": "00:00:01.1396191"
+  },
+  "data": {
+    "max": 25.1,
+    "min": 25,
+    "avg": 25.06136363636364,
+    "values": [
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:00:01"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:00:44"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:01:27"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:02:04"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:02:48"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:03:31"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:04:07"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:04:43"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:05:27"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:06:11"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:06:55"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:07:39"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:08:23"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:09:06"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:09:49"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:10:25"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:11:02"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:11:45"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:12:28"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:13:12"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:13:55"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:14:38"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:15:22"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:16:06"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:16:49"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:17:33"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:18:10"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:18:46"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:19:30"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:20:02"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:20:46"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:21:29"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:22:13"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:22:50"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:23:22"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:24:05"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:24:49"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:25:33"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:26:16"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:27:00"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:27:44"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:28:27"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25",
+        "stringValue": null,
+        "numberValue": 25,
+        "time": "2019-06-04 10:29:11"
+      },
+      {
+        "objectId": "32.F4A-WSD-01",
+        "propertyId": "HT_Temp",
+        "value": "25.1",
+        "stringValue": null,
+        "numberValue": 25.1,
+        "time": "2019-06-04 10:29:47"
+      }
+    ]
+  }
+}
